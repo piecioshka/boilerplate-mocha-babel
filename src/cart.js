@@ -1,8 +1,6 @@
 class Cart {
 
-    constructor() {
-        this.list = [];
-    }
+    list = [];
 
     addProduct(product) {
         this.list.push(product);

@@ -1,5 +1,5 @@
 module.exports = {
-    require: 'chai',
+    require: ['chai', '@babel/register'],
 
     // ui: 'bdd',
     ui: 'tdd',
