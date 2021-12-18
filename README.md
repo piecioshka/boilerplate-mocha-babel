@@ -4,7 +4,7 @@
 [![coveralls](https://coveralls.io/repos/github/piecioshka/boilerplate-mocha-babel/badge.svg?branch=master)](https://coveralls.io/github/piecioshka/boilerplate-mocha-babel?branch=master)
 [![snyk](https://snyk.io/test/github/piecioshka/boilerplate-mocha-babel/badge.svg?targetFile=package.json)](https://snyk.io/test/github/piecioshka/boilerplate-mocha-babel?targetFile=package.json)
 
-:ledger: Test project which use Mocha with Babel.js
+🍴 Starter with Mocha & Babel.js
 
 ## Unit tests
 
@@ -24,4 +24,4 @@ npm run coverage
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2019
+[The MIT License](http://piecioshka.mit-license.org) @ 2019-2021
