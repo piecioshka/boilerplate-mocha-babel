@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "test-mocha-babel",
+    "name": "boilerplate-mocha-babel",
     "description": "",
     "version": "0.0.0",
     "license": "MIT",
@@ -28,6 +28,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:piecioshka/test-mocha-babel.git"
+        "url": "git@github.com:piecioshka/boilerplate-mocha-babel.git"
     }
 }
