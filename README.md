@@ -6,6 +6,11 @@
 
 🍴 Starter with Mocha & Babel.js
 
+## Features
+
+* :white_check_mark: Mocha `v9.1.3`
+* :white_check_mark: Chai `v4.3.4`
+
 ## Unit tests
 
 ```bash
