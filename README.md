@@ -1,7 +1,6 @@
 # boilerplate-mocha-babel
 
 [![travis-ci](https://api.travis-ci.com/piecioshka/boilerplate-mocha-babel.svg?branch=master)](https://app.travis-ci.com/github/piecioshka/boilerplate-mocha-babel)
-[![coveralls](https://coveralls.io/repos/github/piecioshka/boilerplate-mocha-babel/badge.svg?branch=master)](https://coveralls.io/github/piecioshka/boilerplate-mocha-babel?branch=master)
 
 🍴 Starter with Mocha & Babel.js
 
