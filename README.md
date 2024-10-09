@@ -1,6 +1,6 @@
 # boilerplate-mocha-babel
 
-[![travis-ci](https://api.travis-ci.com/piecioshka/boilerplate-mocha-babel.svg?branch=master)](https://app.travis-ci.com/github/piecioshka/boilerplate-mocha-babel)
+[![github-ci](https://github.com/piecioshka/boilerplate-mocha-babel/actions/workflows/testing.yml/badge.svg)](https://github.com/piecioshka/boilerplate-mocha-babel/actions/workflows/testing.yml)
 
 🍴 Starter with Mocha & Babel.js
 
